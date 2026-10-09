@@ -1,0 +1,10 @@
+google-api-python-client
+langdetect
+matplotlib
+networkx
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
+gensim
